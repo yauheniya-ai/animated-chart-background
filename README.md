@@ -59,4 +59,4 @@ The MIT License permits free use, modification, and distribution of software wit
 
 ## Further Information
 
-There is a detailed [article on Medium](https://medium.com/@yauheniya.ai) explaining the implementation steps.
+There is a detailed [article on Medium](https://medium.com/@yauheniya.ai/how-to-add-animated-backgrounds-to-your-data-visualizations-b3865e370cc7) explaining the implementation steps.
