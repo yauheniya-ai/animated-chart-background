@@ -4,8 +4,15 @@ This project shows how to build a data-rich chart (token limits, prices, and mod
 
 ## Final Result
 
-![Animated Chart Background](https://raw.githubusercontent.com/yauheniya-ai/animated-chart-background/main/video/gpt-claude-gemini-3000.aep_AME/gpt-claude-gemini-animated-background-3000.gif)
+<div style="text-align: center;">
 
+  <img src="../video/gpt-claude-gemini-3000.aep_AME/gpt-claude-gemini-animated-background-3000.gif" alt="SLM Comparison by Knowledge Cutoff Date, Max Tokens, and Price" width="800" />
+
+  <p style="color:gray; font-style: italic; margin-top: 0.5em;">
+    Matplotlib Chart with Animated Background Added via Ae
+  </p>
+
+</div>
 
 ## Quick Start
 
@@ -28,7 +35,7 @@ uv pip install -r requirements.txt
 2. Run all cells to load the data and generate the chart
 3. Open your video editing software (e.g. Adobe After Effects, Adobe Express) and place the chart (with transparent background) over the background video
 4. Export as a looping GIF or MP4
-5. For sharing large gif files use Git LFS (see below)
+5. For sharing large GIF files, use Git LFS (see below)
 
 
 ## Git Large File Storage (LFS) 
@@ -45,7 +52,6 @@ git lfs track "*.gif"
 # Make sure .gitattributes is tracked
 git add .gitattributes
 ```
-
 
 ## License
 
