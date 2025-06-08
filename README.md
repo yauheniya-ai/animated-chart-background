@@ -6,10 +6,10 @@ This project shows how to build a data-rich chart (token limits, prices, and mod
 
 <div style="text-align: center;">
 
-  <img src="./video/gpt-claude-gemini-3000.aep_AME/gpt-claude-gemini-animated-background-3000.gif" alt="SLM Comparison by Knowledge Cutoff Date, Max Tokens, and Price" width="800" />
+  <img src="./video/gpt-claude-gemini-3000.aep_AME/gpt-claude-gemini-animated-background-3000.gif" alt="SLM Comparison by Knowledge Cutoff Date, Max Tokens, and Price" width="1000" />
 
   <p style="color:gray; font-style: italic; margin-top: 0.5em;">
-    Matplotlib Chart with Animated Background Added via Ae
+    Chart with Animated Background Served via Git LFS – It Might Take a Minute to Load
   </p>
 
 </div>
@@ -59,4 +59,4 @@ The MIT License permits free use, modification, and distribution of software wit
 
 ## Further Information
 
-There is a detailed [article on Medium]() explaining the implementation steps.
+There is a detailed [article on Medium](https://medium.com/@yauheniya.ai) explaining the implementation steps.
